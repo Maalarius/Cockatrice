@@ -26,6 +26,8 @@
 
 Cockatrice is an open-source, multiplatform program for playing tabletop card games over a network. The program's server design prevents users from manipulating the game for unfair advantage. The client also provides a single-player mode, which allows users to brew while offline. This project uses C++ and the Qt5 libraries.<br>
 
+<b>This project Fork is by Eric Wright [Maalarius] as a new Developer. Please refer back to the Master version of this project to see the newest and probably the most professional versions of this project. Thanks!!</b>
+
 
 # Download [![Cockatrice Eternal Download Count](https://img.shields.io/github/downloads/cockatrice/cockatrice/total.svg)](https://tooomm.github.io/github-release-stats/?username=Cockatrice&repository=Cockatrice)
 
